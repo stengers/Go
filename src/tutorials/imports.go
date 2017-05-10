@@ -8,6 +8,7 @@ import (
 	"math"
 )
 
+//%g grabs the output of the function after the ','
 func main() {
 	fmt.Printf("Now you have %g problems.\n", math.Sqrt(7))
 }
